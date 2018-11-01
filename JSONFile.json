@@ -1,0 +1,43 @@
+[
+{
+"first_name" : "Vlad" ,
+"last_name" : "Nikonov" ,
+"age"  : 22,
+"gender" : "Male",
+"phone_number"  :  9138766597,
+"email" : "ibigmeat1996@gmail.com"
+
+},
+{
+"first_name" : "Nikita" ,
+"last_name" : "Zaltsman" ,
+"age"  : 21,
+"gender" : "Male",
+"phone_number"  :  9080245591,
+"email" : "sample@gmail.com"
+},
+{
+"first_name" : "Olga" ,
+"last_name" : "Li" ,
+"age"  : 19,
+"gender" : "Female",
+"phone_number"  :  9080245591,
+"email" : "samplle@gmail.com"
+},
+{
+"first_name" : "Lu" ,
+"last_name" : "Libovsky" ,
+"age"  : 15,
+"gender" : "Male",
+"phone_number"  :  9080245591,
+"email" : "samplle@gmail.com"
+},
+{
+"first_name" : "Natali" ,
+"last_name" : "Romanoff" ,
+"age"  : 19,
+"gender" : "Female",
+"phone_number"  :  80245591,
+"email" : "samplle@gmail.com"
+}
+]
